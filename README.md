@@ -73,9 +73,9 @@ type(reviews)
 
 
 
-Replace `None` with appropriate code so the info printout is correct
+In the cell below, delete `None` and replace it with appropriate code so the info printout is correct
 
-(Instead of `None`, you should have code to find the number of entries in the `reviews` list, i.e. the size or length of the list)
+(In other words: when you're done, you should have code to find the number of entries in the `reviews` list, i.e. the size or length of the list)
 
 
 ```python
@@ -246,7 +246,7 @@ The values associated with these keys have mixed types: <None>, <None>, <None>, 
 
 ```python
 # __SOLUTION__
-"""
+print("""
 For this analysis, we are using a dataset collected from Amazon.com by UCSD researchers
 
 Each record represents a product review of a coffee-related product
@@ -256,8 +256,21 @@ There are a total of 86 records
 Each record has 7 keys, all of which are type string
 
 The values associated with these keys have mixed types: float, string, list, and dictionary
-"""
+""")
 ```
+
+    
+    For this analysis, we are using a dataset collected from Amazon.com by UCSD researchers
+    
+    Each record represents a product review of a coffee-related product
+    
+    There are a total of 86 records
+    
+    Each record has 7 keys, all of which are type string
+    
+    The values associated with these keys have mixed types: float, string, list, and dictionary
+    
+
 
 ## Review Selection
 
@@ -350,7 +363,9 @@ selected_rating
 
 
 
-Now, using that `selected_rating` variable, print out the appropriate statement:
+Now, in the cell below, write code using `selected_rating`, `if`, `elif` and `else` so that when `selected_rating` changes value, it will print out the right `This is a <blank> review` statement.
+
+(Again, since the current value of `selected_rating` == 5.0, your code should print out `This is a positive review`, but your code should be able to print different statements when `selected_rating` changes value!)
 
 
 ```python
