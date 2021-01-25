@@ -246,7 +246,7 @@ The values associated with these keys have mixed types: <None>, <None>, <None>, 
 
 ```python
 # __SOLUTION__
-print("""
+"""
 For this analysis, we are using a dataset collected from Amazon.com by UCSD researchers
 
 Each record represents a product review of a coffee-related product
@@ -256,21 +256,8 @@ There are a total of 86 records
 Each record has 7 keys, all of which are type string
 
 The values associated with these keys have mixed types: float, string, list, and dictionary
-""")
+"""
 ```
-
-    
-    For this analysis, we are using a dataset collected from Amazon.com by UCSD researchers
-    
-    Each record represents a product review of a coffee-related product
-    
-    There are a total of 86 records
-    
-    Each record has 7 keys, all of which are type string
-    
-    The values associated with these keys have mixed types: float, string, list, and dictionary
-    
-
 
 ## Review Selection
 
