@@ -1,8 +1,8 @@
-# Python Essentials - Summative Lab
+# Python Essentials - Cumulative Lab
 
 ## Introduction
 
-Congratulations, you made it through the new content for the first section of the prework! This summative lab will help you review and practice everything you've learned in this section — "putting it all together" into an analysis with real-world data.
+Congratulations, you made it through the new content for the first section of the prework! This cumulative lab will help you review and practice everything you've learned in this section — "putting it all together" into an analysis with real-world data.
 
 ## Objectives
 You will be able to:
@@ -579,4 +579,4 @@ Image(selected_review["images"][0])
 
 ## Conclusion
 
-In this summative lab, you practiced some of the skills you've learned so far using real-world data. Starting from a nested list of dictionaries (which also contained other lists and dictionaries), you were able to extract and transform data into a new format.
+In this cumulative lab, you practiced some of the skills you've learned so far using real-world data. Starting from a nested list of dictionaries (which also contained other lists and dictionaries), you were able to extract and transform data into a new format.
