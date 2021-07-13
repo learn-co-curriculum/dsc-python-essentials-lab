@@ -187,8 +187,8 @@ We'll do this by **writing code to summarize a given review dictionary** in a mo
 Using conditionals, let's display whether a given review is positive, negative, or neutral based on the value associated with the `rating` key. We'll use the following definitions:
 
  - Positive: `rating` value of 4 or 5 (out of 5)
- - Negative: `rating` value of 3 (out of 5)
- - Neutral: `rating` value of 1 or 2 (out of 5)
+ - Neutral: `rating` value of 3 (out of 5)
+ - Negative: `rating` value of 1 or 2 (out of 5)
 
 Once you've found that value, print out: `This is a <blank> review` where `<blank>` is replaced with either `positive`, `negative`, or `neutral`.
 
