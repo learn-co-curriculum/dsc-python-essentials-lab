@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Congratulations, you made it through the new content for the first section of the prework! This cumulative lab will help you review and practice everything you've learned in this section — "putting it all together" into an analysis with real-world data.
+Congratulations, you made it through the new content for the first section of the prep! This cumulative lab will help you review and practice everything you've learned in this section — "putting it all together" into an analysis with real-world data.
 
 ## Objectives
 You will be able to:
