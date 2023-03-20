@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Congratulations, you made it through the new content for the first section of the prep! This cumulative lab will help you review and practice everything you've learned in this section — "putting it all together" into an analysis with real-world data.
+Congratulations, you made it through the new content for the first section of the prework! This cumulative lab will help you review and practice everything you've learned in this section — "putting it all together" into an analysis with real-world data.
 
 ## Objectives
 You will be able to:
@@ -313,12 +313,12 @@ In addition to displaying the output of cells as strings of data, we can actuall
 from IPython.display import Image
 ```
 
-Here is an example of using the `Image` class with a hard-coded image, pulled from the documentation:
+Here is an example of using the `Image` class with a hard-coded image:
 
 
 ```python
 # Run this cell without changes
-Image('http://www.google.fr/images/srpr/logo3w.png')
+Image('https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png')
 ```
 
 Recall that our data contains links to images:
