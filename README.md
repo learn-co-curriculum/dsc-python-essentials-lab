@@ -259,6 +259,13 @@ The values associated with these keys have mixed types: float, string, list, and
 """
 ```
 
+
+
+
+    '\nFor this analysis, we are using a dataset collected from Amazon.com by UCSD researchers\n\nEach record represents a product review of a coffee-related product\n\nThere are a total of 86 records\n\nEach record has 7 keys, all of which are type string\n\nThe values associated with these keys have mixed types: float, string, list, and dictionary\n'
+
+
+
 ## Review Selection
 
 Now that we have a general sense of what is contained in our dataset, let's implement a system for a user to be able to query for an individual record. For now, assume that the user can edit the value of a variable in this Jupyter Notebook.
@@ -608,24 +615,26 @@ from IPython.display import Image
 from IPython.display import Image
 ```
 
-Here is an example of using the `Image` class with a hard-coded image, pulled from the documentation:
+Here is an example of using the `Image` class with a hard-coded image:
 
 
 ```python
 # Run this cell without changes
-Image('http://www.google.fr/images/srpr/logo3w.png')
+Image('https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png')
 ```
 
 
 ```python
 # __SOLUTION__
-Image('http://www.google.fr/images/srpr/logo3w.png')
+Image('https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png')
 ```
 
 
 
 
+    
 ![png](index_files/index_68_0.png)
+    
 
 
 
@@ -696,7 +705,9 @@ Image(positive_review_image_url)
 
 
 
-![jpeg](index_files/index_77_0.jpeg)
+    
+![jpeg](index_files/index_77_0.jpg)
+    
 
 
 
@@ -719,7 +730,9 @@ Image(negative_review_image_url)
 
 
 
-![jpeg](index_files/index_80_0.jpeg)
+    
+![jpeg](index_files/index_80_0.jpg)
+    
 
 
 
@@ -740,7 +753,9 @@ Image(neutral_review_image_url)
 
 
 
-![jpeg](index_files/index_82_0.jpeg)
+    
+![jpeg](index_files/index_82_0.jpg)
+    
 
 
 
@@ -814,7 +829,9 @@ Image(selected_review["images"][0])
 
 
 
-![jpeg](index_files/index_88_1.jpeg)
+    
+![jpeg](index_files/index_88_1.jpg)
+    
 
 
 
