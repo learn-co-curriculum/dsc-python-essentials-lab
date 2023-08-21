@@ -21,7 +21,7 @@ Empirical Methods in Natural Language Processing (EMNLP), 2019
 
 We are using a cleaned-up sample version of their [full dataset](https://nijianmo.github.io/amazon/index.html), which contains over 200 million reviews of products on Amazon.com. Specifically, a subset of reviews from the Home and Kitchen category about coffee-related products.
 
-![coffee preparation](images/coffee.jpg)
+![coffee preparation](https://curriculum-content.s3.amazonaws.com/data-science/images/coffee.jpg)
 
 <span>Photo by <a href="https://unsplash.com/@kfred?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Karl Fredrickson</a> on <a href="https://unsplash.com/?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span>
 
